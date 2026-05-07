@@ -1,0 +1,5 @@
+# Test Configuration File
+This file contains Trellix configuration settings
+Environment: Production
+Security provider: Skyhigh
+Antivirus: McAfee
