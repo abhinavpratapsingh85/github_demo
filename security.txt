@@ -1,0 +1,4 @@
+# Security Settings
+Skyhigh security policies enabled
+McAfee antivirus integration active
+Trellix endpoint protection configured
